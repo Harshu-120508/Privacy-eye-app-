@@ -1,0 +1,7 @@
+{
+  "name": "Privacy Eye",
+  "description": "AI-powered digital authenticity and deepfake protection. Real-time multi-signal biometric and forensic inference.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
